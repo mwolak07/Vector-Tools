@@ -1,4 +1,4 @@
-from vector_tools.utils_3d import Utils3D
+from src.utils_3d import Utils3D
 
 
 class Plane3D:

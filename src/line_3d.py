@@ -1,4 +1,4 @@
-from vector_tools.vector_3d import Vector3D
+from src.vector_3d import Vector3D
 
 
 class Line3D:
